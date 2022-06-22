@@ -4,7 +4,7 @@
             "key": "wabc(腾讯直采)",
             "name": "wabc(腾讯直采)(官)",
             "type": 1,
-            "api": "https://wabc.ml/mao/1.php/provide/vod/",
+            "api": "https://raw.githubusercontent.com/jhyes/ku6/main/tx.php",
             "playUrl": "parse:parwix1",
             "searchable": 1,
             "quickSearch": 1
